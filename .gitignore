@@ -1,0 +1,17 @@
+venv/
+del/
+app/
+
+*.pyc
+__pycache__/
+
+instance/
+freeze
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
